@@ -6,7 +6,7 @@ Works on both iOS and Android devices.
 
 ## Preview
 
-![Preview](https://github.com/jkuri/react-native-realtime-chart/assets/1796022/cbd7ed34-2dae-46df-8392-e006e3e084aa)
+![Preview](https://github.com/jkuri/react-native-realtime-chart/assets/1796022/194d1d83-98b1-49d3-838b-d8611e02c0c3)
 
 ## Run Instructions
 
